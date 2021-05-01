@@ -1,6 +1,6 @@
 # sequence-bias
 
-This repository contains scripts to analyse the sequence compisition and bias of protein and nucleotide (DNA) sequences.
+This repository contains scripts to analyse the sequence composition and bias of protein and nucleotide (DNA) sequences.
 
 ### Software requirements
 
