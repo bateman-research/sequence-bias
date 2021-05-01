@@ -16,8 +16,8 @@ options(stringsAsFactors = F)
 
 ###################### Argparse #############################
 
-input = "SasG_dna.fa"
-prefix = "SasG_dna"
+input = "example/SasG_dna.fa"
+prefix = "example/SasG_dna"
 N = 100
 frame = "1,2,3"
 

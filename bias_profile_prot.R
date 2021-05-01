@@ -15,8 +15,8 @@ theme_set(theme_bw() + theme(panel.grid.minor = element_blank()))
 
 ###################### Argparse #############################
 
-input = "SasG_prot.fa"
-prefix = "SasG_prot"
+input = "example/SasG_prot.fa"
+prefix = "example/SasG_prot"
 N = 100
 
 # create parser object
