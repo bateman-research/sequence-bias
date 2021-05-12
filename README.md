@@ -4,7 +4,7 @@ This repository contains scripts to analyse the sequence composition and bias of
 
 ### Software requirements
 
-Scripts are implemented in `R` v3.6, and use the following packages: `seqinr`, `argparse`, `dplyr` and `tidyr`.
+Scripts are implemented in `R` v3.6, and use the following packages: `seqinr`, `argparse`, `ggplot2`, `dplyr` and `tidyr`.
 
 ### Scripts
 
