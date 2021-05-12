@@ -8,7 +8,7 @@ Scripts are implemented in `R` v3.6, and use the following packages: `seqinr`, `
 
 ### Scripts
 
-This repository contains four scripts, listed below. 
+This repository contains five scripts, listed below. 
 Each script can be run from the command line with custom input and output options. 
 Use the help option (-h/--help) on each script to see all the available options.
 
