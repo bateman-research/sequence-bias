@@ -12,6 +12,10 @@ This repository contains five scripts, listed below.
 Each script can be run from the command line with custom input and output options. 
 Use the help option (-h/--help) on each script to see all the available options.
 
+```
+Rscript script_name.R -h
+```
+
 - [bias_profile_dna.R](bias_profile_dna.R): plot the nucleotide composition and bias profile along the DNA sequence of a gene.
 - [bias_profile_prot.R](bias_profile_prot.R): plot the amino acid composition and bias profile along a protein sequence.
 - [composition_dna.R](composition_dna.R): analyse the DNA composition for a subset of genes, including GC content, nucleotide asymmetries and expected vs observed nucleotide frequencies, and generate PCA and dendogram plots.
