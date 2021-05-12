@@ -1,4 +1,4 @@
-# sequence-bias
+# Sequence composition and bias analyses
 
 This repository contains scripts to analyse the sequence composition and bias of protein and nucleotide (DNA) sequences.
 
